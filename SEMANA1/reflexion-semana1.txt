@@ -1,0 +1,1 @@
+: El uso responsable de la información en internet es la base de una participación ciudadana sana, ya que compartir datos verificados fortalece la democracia y evita el caos de las noticias falsas. Esta misma responsabilidad se traslada al trabajo técnico cuando utilizamos herramientas como Git
